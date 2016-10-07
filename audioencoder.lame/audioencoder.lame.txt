@@ -1,1 +1,1 @@
-audioencoder.lame https://github.com/retv/audioencoder.lame 3fea8a7d768cec173e5fb9bd33e8ef7e2ac2cd2d
+audioencoder.lame https://github.com/retv/audioencoder.lame 07344a80dc9a008b8bf62f39e1e609505e1aa58a
