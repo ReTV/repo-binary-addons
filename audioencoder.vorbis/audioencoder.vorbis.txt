@@ -1,1 +1,1 @@
-audioencoder.vorbis https://github.com/xbmc/audioencoder.vorbis v1.0.0
+audioencoder.vorbis https://github.com/retv/audioencoder.vorbis 971ea736ef5b0ac752f0cacebb6b209fea28a537

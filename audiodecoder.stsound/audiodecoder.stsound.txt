@@ -1,1 +1,1 @@
-audiodecoder.stsound https://github.com/notspiff/audiodecoder.stsound 759ae7eadb94adfde8533a2a42d949c321718625
+audiodecoder.stsound https://github.com/retv/audiodecoder.stsound f6786f7d4ca378d2de8856284dbdc98b66ae3669

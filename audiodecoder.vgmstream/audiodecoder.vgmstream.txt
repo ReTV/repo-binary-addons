@@ -1,1 +1,1 @@
-audiodecoder.vgmstream https://github.com/notspiff/audiodecoder.vgmstream cb2892ac0465b0563ee45f532323198a6f722b62
+audiodecoder.vgmstream https://github.com/retv/audiodecoder.vgmstream 2da296b005b8a8e8478be31eadd47d59b34f4463

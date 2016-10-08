@@ -1,1 +1,1 @@
-visualization.spectrum https://github.com/notspiff/visualization.spectrum 9dbe53a0db73f00ee22e9ca235c98f8137b7bb9e
+visualization.spectrum https://github.com/retv/visualization.spectrum d90a790170fab3c7bd2e71fd30b71e79799ab644
